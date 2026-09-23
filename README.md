@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Surojeet Manna
 👋 Hi, I'm Surojeet Manna
 🎓 Computer Engineering Graduate | 💻 Full Stack Development | 📊 Data Analysis
 
